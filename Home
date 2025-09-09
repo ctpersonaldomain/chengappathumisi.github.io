@@ -1,0 +1,98 @@
+Skip to content
+Chat history
+
+You said:
+create code for a simple html frame personal website in one page 
+ChatGPT said:
+
+Thought for 5s
+Simple One-page Personal Website (html Template)
+· html
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact" class="btn">Contact</a>
+      </div>
+    </nav>
+  </header>
+
+  <main id="top" class="container">
+    <!-- Hero -->
+    <section class="hero" aria-label="Intro">
+      <div class="card p-32">
+        <span class="badge">👋 Hello, I'm Jane — Scientist & Maker</span>
+        <h1>Building thoughtful solutions at the intersection of research and real‑world impact.</h1>
+        <p class="sub">I explore data, craft experiments, and ship clean, minimal tools. Here you’ll find a quick snapshot of who I am, what I’m working on, and how to get in touch.</p>
+        <div class="hero-cta">
+          <a class="btn primary" href="#projects">See Projects</a>
+          <a class="btn" href="#contact">Work With Me</a>
+        </div>
+      </div>
+      <div>
+        <div class="avatar card">JD</div>
+      </div>
+    </section>
+
+    <!-- About -->
+    <section id="about" aria-label="About">
+      <div class="grid-2">
+        <div class="card p-24 stack">
+          <h2>About</h2>
+          <p>I’m a researcher focused on turning complex problems into simple, robust systems. I value clear thinking, reproducibility, and human‑centric design.</p>
+          <div class="list">
+            <span class="tag">⚗️ Lab Methods</span>
+            <span class="tag">📊 Data Analysis</span>
+            <span class="tag">🧠 ML Basics</span>
+            <span class="tag">🛠️ Prototyping</span>
+          </div>
+        </div>
+        <div class="card p-24 stack">
+          <h3>Highlights</h3>
+          <ul>
+            <li>Lead author on 4+ peer‑reviewed papers.</li>
+            <li>Designed automation that cut processing time by 35%.</li>
+            <li>Spoke at 6 conferences across 3 countries.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- Projects -->
+    <section id="projects" aria-label="Projects">
+      <h2>Projects</h2>
+      <div class="projects">
+        <article class="card p-24 project-card">
+          <h3>Project Aurora</h3>
+          <p>Open‑source toolkit for quick experiment setup and reproducible analysis.</p>
+          <p class="project-meta">Role: Lead • 2024 — Present</p>
+        </article>
+        <article class="card p-24 project-card">
+          <h3>SignalLab</h3>
+          <p>Lightweight app to visualize sensor streams and annotate events in real time.</p>
+          <p class="project-meta">Role: Builder • 2023</p>
+        </article>
+        <article class="card p-24 project-card">
+          <h3>Micro‑Note</h3>
+          <p>A minimal note system that syncs across devices with plain text.</p>
+          <p class="project-meta">Role: Solo • 2022</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact" aria-label="Contact">
+      <div class="grid-2">
+        <div class="card p-24">
+          <h2>Contact</h2>
+          <p class="sub">Have a project or question? Send a message — I’ll get back soon.</p>
+          <form action="mailto:you@example.com" method="post" enctype="text/plain">
+            <label class="field">
+              <span>Name</span>
+I dropped a clean, single-file personal website template into the canvas. It’s responsive, accessible, and easy to tweak—no external frameworks needed.
+
+Want me to personalize it for you (name, sections, colors, contact email), or export it as a downloadable ZIP?
+
+
+
+
+No file chosenNo file chosen
+ChatGPT can make mistakes. Check important info. See Cookie Preferences.
